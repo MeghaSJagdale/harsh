@@ -1,0 +1,6 @@
+F:\program visual studio\2D matrix\2D matrix\bin\Debug\2D matrix.exe.config
+F:\program visual studio\2D matrix\2D matrix\obj\Debug\2D matrix.csprojResolveAssemblyReference.cache
+F:\program visual studio\2D matrix\2D matrix\bin\Debug\2D matrix.exe
+F:\program visual studio\2D matrix\2D matrix\bin\Debug\2D matrix.pdb
+F:\program visual studio\2D matrix\2D matrix\obj\Debug\2D matrix.exe
+F:\program visual studio\2D matrix\2D matrix\obj\Debug\2D matrix.pdb
